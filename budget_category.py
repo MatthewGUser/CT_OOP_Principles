@@ -1,5 +1,3 @@
-# [ Task 1 ]
-
 class BudgetCategory:
     def __init__(self, name, allocated_budget):
         self.__name = name
